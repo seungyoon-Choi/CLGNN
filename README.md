@@ -3,7 +3,7 @@
 ## Introduction
 Implementation of **Continual Learning on Graph Neural Networks.**  
 
-Continual learning method with replay approach on graph structured data. Structure learning framework and experience replay approach were used to prevent catastrophic forgetting.  
+Continual learning method with replay approach on graph structured data. The structure learning framework and experience replay approach were used to prevent catastrophic forgetting.  
 
 
 ## Basics

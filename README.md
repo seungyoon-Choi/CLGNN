@@ -15,7 +15,6 @@ Continual learning method with replay approach on graph structured data. Structu
 ## Run
 <pre>
 <code>
-
 1. Mean feature
 python train.py --replay MFf --clustering no --structure no
 
